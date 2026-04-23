@@ -13,10 +13,7 @@ public class TestAppKaiApplication {
             System.out.println("");
         }
 
-        System.out.println("");
-        System.out.println("");
-        System.out.println("");
-        System.out.println("");
+
 
 
     }
