@@ -10,4 +10,8 @@ class TestAppKaiApplicationTests {
 //	void contextLoads() {
 //	}
 
+    	@Test
+	void test() {
+	}
+
 }
