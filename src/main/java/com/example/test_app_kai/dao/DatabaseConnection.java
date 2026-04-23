@@ -30,8 +30,4 @@ public class DatabaseConnection {
             throw new RuntimeException(e);
         }
     }
-
-//    gfdhkhkhdkfjg
-//    dfgdkljgdklfjg
-//            dfgkld;flgkd;flgk
 }
