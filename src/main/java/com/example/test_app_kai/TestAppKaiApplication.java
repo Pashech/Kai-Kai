@@ -10,6 +10,12 @@ public class TestAppKaiApplication {
         SpringApplication.run(TestAppKaiApplication.class, args);
 
         System.out.println("Тут не должно ничего быть");
+        System.out.println("Тут не должно ничего быть");
+        System.out.println("Тут не должно ничего быть");
+        System.out.println("Тут не должно ничего быть");
+        System.out.println("Тут не должно ничего быть");
+        System.out.println("Тут не должно ничего быть");
+
 
     }
 
