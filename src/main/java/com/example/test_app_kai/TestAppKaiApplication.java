@@ -8,13 +8,8 @@ public class TestAppKaiApplication {
 
 	public static void main(String[] args) {
         SpringApplication.run(TestAppKaiApplication.class, args);
-        int x = 5;
-        while (x < 5) {
-            System.out.println("");
-        }
 
-
-
+        System.out.println("Тут не должно ничего быть");
 
     }
 
