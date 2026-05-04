@@ -12,9 +12,6 @@ public class TestAppKaiApplication {
         System.out.println("Тут не должно ничего быть");
         System.out.println("Тут не должно ничего быть");
         System.out.println("Тут не должно ничего быть");
-        System.out.println("Тут не должно ничего быть");
-        System.out.println("Тут не должно ничего быть");
-        System.out.println("Тут не должно ничего быть");
 
 
     }
